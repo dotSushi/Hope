@@ -1,7 +1,7 @@
 # Hope
 
 ![screenshot](http://i.imgur.com/KIVrF5p.png)
-Here a screenshot of 'Hope' in action !
+Here a screenshot of 'Hope' in action ! I really love the style of Vanillaware games, you should play one if you haven't done it yet !
 
 What's an userstyle ?
 -------------------------------
