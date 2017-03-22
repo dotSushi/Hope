@@ -119,10 +119,9 @@ regexp("https://www.google.com/search?.*") {
                 left: -250px !important;
                 right: 34px !important;
             }
-            .gb_gb.gb_Oc.gb_Mf.gb_R.gb_g .gb_kb, 
-            .gb_gb.gb_Oc.gb_Mf.gb_R.gb_g .gb_lb {
+            .gb_gb.gb_Wc.gb_Vf.gb_R.gb_g .gb_Dc.gb_ib.gb_Vf.gb_R .gb_mb, 
+            .gb_gb.gb_Wc.gb_Vf.gb_R.gb_g .gb_Dc.gb_ib.gb_Vf.gb_R .gb_lb {
                 left: -192px !important;
-                margin-top: 16px !important;
             }
             .gb_xf.gb_R {
                 margin-top: 5px !important;
@@ -138,8 +137,8 @@ regexp("https://www.google.com/search?.*") {
                   margin-left: -104px !important;
                   margin-top: 6px !important;
             }
-            .gb_wc.gb_Oc.gb_R.gb_xc.gb_g .gb_kb, 
-            .gb_wc.gb_Oc.gb_R.gb_xc.gb_g .gb_lb {
+            .gb_Ac.gb_Wc.gb_R.gb_Bc.gb_g .gb_mb, 
+            .gb_Ac.gb_Wc.gb_R.gb_Bc.gb_g .gb_lb {
                   left: -96px !important;
              }
              .Vzc.Mb {
